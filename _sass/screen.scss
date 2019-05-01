@@ -119,6 +119,7 @@ div.shell {
 }
 
 a#forkme_banner {
+  display: none
   position: absolute;
   top: 0;
   left: 0;
@@ -131,6 +132,7 @@ a#forkme_banner {
 }
 
 a#forkme_banner:hover {
+  display: none
   background-position: 0 -138px;
 }
 
